@@ -1,0 +1,32 @@
+html, body {
+    height: 100%;
+}
+
+.navbar, footer {
+    background-color:rgb(211,188,141)
+}
+
+a.nav-link, footer {
+    color: rgb(16,24,31)
+}
+
+#subcontents {
+    min-height: 700px;
+}
+
+a:focus, a:hover, button:focus, button:hover {
+    border: rgb(16,24,31) 5px dotted !important;
+}
+
+main {
+    margin: 50px 0px 50px 0px;
+    background-color: rgb(16,24,31);
+}
+
+footer .navbar {
+    flex-flow: column;
+}
+
+div.card {
+    margin: 50px;
+}
