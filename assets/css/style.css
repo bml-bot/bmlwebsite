@@ -30,3 +30,7 @@ footer .navbar {
 div.card {
     margin: 50px;
 }
+
+.jumbotron.jumbotron-fluid {
+   background-image: url(../images/beanstalk/beanstalk.png); 
+}
